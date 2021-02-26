@@ -1,0 +1,3 @@
+my name is vishal 
+i want to learn git
+and i will learn it in 1 week
